@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, meu nome é Matheus Matos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, meu nome é Matheus Matos </h1>
 
 - 🔥 Futuro programador Frontend
 
