@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, meu nome é Matheus Matos </h1>
 
 - 🔥 Me aprimorando no Frontend
-- 💻 JavaScript, HTLM, CSS, aprendendo React 
+- 💻 JavaScript, HTML, CSS, aprendendo React 
 - 📫 matheusmatos88x10@gmail.com
 
 <!---
