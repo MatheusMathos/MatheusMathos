@@ -4,6 +4,8 @@
 - 🔥 Me aprimorando no Frontend
 - 💻 JavaScript, HTML, CSS, aprendendo React 
 - 📫 matheusmatos88x10@gmail.com
+- ![logotipo-do-linkedin](https://user-images.githubusercontent.com/52681020/194790281-fec6bd0c-d0fa-4cab-8a53-789a65d35d98.png) https://www.linkedin.com/in/matheus-matos-0537aa234/
+
 
 <!---
 - 👋 I'm a Systems Analysis and Development student, graduating this year. My goal is to become an excellent front end programmer, to the point of being proud of myself!
