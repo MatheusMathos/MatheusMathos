@@ -4,7 +4,8 @@
 - 🔥 Me aprimorando no Frontend
 - 💻 JavaScript, HTML, CSS, aprendendo React 
 - 📫 matheusmatos88x10@gmail.com
-- ![logotipo-do-linkedin](https://user-images.githubusercontent.com/52681020/194790281-fec6bd0c-d0fa-4cab-8a53-789a65d35d98.png) https://www.linkedin.com/in/matheus-matos-0537aa234/
+-  ![linkedin](https://user-images.githubusercontent.com/52681020/194790344-184b2bfb-20c3-4ff8-83a3-4cdfd653c6d9.png)
+https://www.linkedin.com/in/matheus-matos-0537aa234/
 
 
 <!---
