@@ -6,7 +6,7 @@
 - Inglês Intermediário 
 - 📫 matheusmatos88x10@gmail.com
 -  ![linkedin](https://user-images.githubusercontent.com/52681020/194790344-184b2bfb-20c3-4ff8-83a3-4cdfd653c6d9.png)
-https://www.linkedin.com/in/matheus-matos-0537aa234/
+www.linkedin.com/in/matheus-matosdev
 
 
 <!---
