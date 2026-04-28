@@ -28,5 +28,5 @@
 <br>
 
 <div align="center">
-  <img src="https://image.pollinations.ai/prompt/lofi%20pixel%20art%20gif%20animation%20of%20a%20young%20boy%20with%20brown%20skin%20and%20curly%20afro%20hair%20programming%20on%20a%20computer%20in%20a%20cozy%20bedroom%20at%20night%20with%20scrolling%20code%20on%20monitor?width=400&height=225&nologo=true" width="400" alt="Pixel Art Programação">
+  <img src="https://image.pollinations.ai/prompt/detailed%20looping%20pixel%20art%20animation%20of%20a%20young%20man%20with%20brown%20skin%20and%20curly%20black%20afro%20hair%20wearing%20a%20grey%20hoodie%20and%20headphones%20programming%20at%20a%20desk%20at%20night.%20Monitor%20shows%20Python%20code.%20Cozy%20room%20with%20a%20sleeping%20cat%20on%20books%20and%20a%20city%20view.%2016-bit%20retro%20style.?width=600&height=338&nologo=true" width="600" alt="Matheus Matos Coding Animation">
 </div>
