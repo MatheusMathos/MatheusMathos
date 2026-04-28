@@ -1,6 +1,9 @@
 <h1 align="center">
+
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+
   Olá, eu sou o Matheus Matos
+
 </h1>
 
 <p align="center">
@@ -28,5 +31,25 @@
 <br>
 
 <div align="center">
-  <img src="https://image.pollinations.ai/prompt/detailed%20looping%20pixel%20art%20animation%20of%20a%20young%20man%20with%20brown%20skin%20and%20curly%20black%20afro%20hair%20wearing%20a%20grey%20hoodie%20and%20headphones%20programming%20at%20a%20desk%20at%20night.%20Monitor%20shows%20Python%20code.%20Cozy%20room%20with%20a%20sleeping%20cat%20on%20books%20and%20a%20city%20view.%2016-bit%20retro%20style.?width=600&height=338&nologo=true" width="600" alt="Matheus Matos Coding Animation">
+  <pre>
+    ╔═══════════════════════════════════════╗
+    ║          👨‍💻  PIXEL ART  👨‍💻          ║
+    ╠═══════════════════════════════════════╣
+    ║                                       ║
+    ║              ████                      ║
+    ║            ██░░░░██                    ║
+    ║          ██░░▒▒░░░░██                  ║
+    ║          ██░░▒▒░░░░██                  ║
+    ║        ██░░░░░░░░░░░░██                ║
+    ║        ██░░▓▓░░░░▓▓░░██                ║
+    ║        ██░░░░░░░░░░░░██                ║
+    ║          ██░░░░░░░░██                  ║
+    ║            ██░░░░██                    ║
+    ║          ██▓▓██▓▓██                    ║
+    ║          ██▓▓██▓▓██                    ║
+    ║          ██░░██░░██                    ║
+    ║                                       ║
+    ║         👨‍💻  CODANDO  👨‍💻             ║
+    ╚═══════════════════════════════════════╝
+  </pre>
 </div>
