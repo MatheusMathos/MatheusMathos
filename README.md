@@ -27,8 +27,4 @@
 
 <br>
 
-### 💻 Um pouco sobre mim
 
-<div align="center">
-  <img src="https://i.imgur.com/0zJ5X8K.png" width="280" alt="Jovem programando">
-</div>
